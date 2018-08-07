@@ -35,4 +35,9 @@ end
 def gangnam_style
   starting_stance
   base_footwork
-  
+  skip_step("right foot")
+  bob_the_reins
+  skip_step("left foot")
+  lasso
+  bust_a_move
+end 
