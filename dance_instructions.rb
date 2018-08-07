@@ -14,3 +14,9 @@ def skip_step(starting_foot)
   puts "Briefly raise the opposite foot, then the #{starting_foot} twice more!"
 end
 
+def bob_the_reins
+  puts "Holding your arms out in front of you, straight and at chest level"
+  puts "Cross your right wrist over your left and hold them together"
+  puts "Life your arms up and down in a losse bouncing movement, in time with the beat of the song. THis movement is repr"
+end
+
