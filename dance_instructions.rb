@@ -9,5 +9,5 @@ def base_footwork
 end
 
 def skip_step(starting_foot)
-  
+  puts ""
 end
