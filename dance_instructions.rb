@@ -17,6 +17,8 @@ end
 def bob_the_reins
   puts "Holding your arms out in front of you, straight and at chest level"
   puts "Cross your right wrist over your left and hold them together"
-  puts "Life your arms up and down in a losse bouncing movement, in time with the beat of the song. THis movement is repr"
+  puts "Life your arms up and down in a losse bouncing movement, in time with the beat of the song. This movement is repeated eight times."
+  puts "Do this 7 more times!"
 end
 
+def 
